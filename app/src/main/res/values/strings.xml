@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCamera</string>
+    <string name="button_capture">Capture</string>
+
+    <string name="camera_permission">This app needs Camera permission to operate correctly</string>
+    <string name="detector_not_available">Detector dependencies are not yet available.</string>
+</resources>
